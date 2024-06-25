@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Utkarsh Gupta and I'm a Btech Student at VIT vellore</h2>
 <br>
 💫 About Me:<br>
-🌱 I am currently learning Data Structures and Algorithms (DSA). <br>✨ I have a keen interest in Web Development.💼 Ex-Intern <a href="https://www.apollopharmacy.in/">@Apollo 24|7</a>
+🌱 I am currently learning Data Structures and Algorithms (DSA). <br>✨ I have a keen interest in Web Development.<br>💼 Ex-Intern <a href="https://www.apollopharmacy.in/">@Apollo 24|7</a>
 
 
 
