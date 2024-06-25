@@ -88,4 +88,7 @@
     alt="example" />
 </p>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=UtkarshGupta17&label=Profile%20Views&pretty=false" />
+</a>
 
