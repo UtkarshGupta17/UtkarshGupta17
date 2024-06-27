@@ -9,6 +9,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UtkarshGupta17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshGupta17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshGupta17&" alt="varunshukla07" /></p>
 </div>
 
 ###
@@ -85,6 +86,7 @@
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
 </div>
+
 
 
 <p align="center">
