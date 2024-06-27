@@ -9,7 +9,7 @@
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UtkarshGupta17&mode=daily&theme=dark&theshow_icons=true&locale=en" alt="UtkarshGupta17" /></p>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshGupta17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshGupta17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="160" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=UtkarshGupta17&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
 
