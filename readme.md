@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Utkarsh Gupta and I'm a Btech Student at VIT vellore</h2>
+ 
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=40&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Utkarsh+Gupta.;I+Am+a+Btech+student+at+VIT+vellore.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/UtkarshGupta17)
+ 
 🌱 I am currently learning Data Structures and Algorithms (DSA). <br>✨ I have a keen interest in Web Development.<br>💼 Ex-Intern <a href="https://www.apollopharmacy.in/">@Apollo 24|7</a>
 
 
