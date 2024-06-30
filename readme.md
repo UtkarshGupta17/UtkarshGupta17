@@ -5,7 +5,9 @@
 
 
 ###
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=UtkarshGupta17&label=Profile%20Views&pretty=false" />
+</a>
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UtkarshGupta17&mode=daily&theme=dark&theshow_icons=true&locale=en"height="160" alt="UtkarshGupta17" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshGupta17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="160" alt="languages graph"  />
@@ -93,8 +95,9 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+Github Trophies🏆
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=UtkarshGupta17&label=Profile%20Views&pretty=false" />
-</a>
+![](https://github-profile-trophy.vercel.app/?username=UtkarshGupta17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 
