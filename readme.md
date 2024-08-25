@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=40&Center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Utkarsh+Gupta.;I+Am+a+Btech+student+at+VIT+vellore.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/UtkarshGupta17)
  
-🌱 I am currently learning Data Structures and Algorithms (DSA). <br>✨ I have a keen interest in Web Development.<br>💼 Ex-Intern <a href="https://www.apollopharmacy.in/">@Apollo 24|7</a>
+🌱 I am currently learning Data Structures and Algorithms (DSA) and Blockchain Development. <br>✨ I have a keen interest in Web Development.<br>💼 Ex-Intern <a href="https://www.apollopharmacy.in/">@Apollo 24|7</a>
 
 
 
